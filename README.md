@@ -1,3 +1,19 @@
+## Updated Instructions for Generating 4 Plot for Course Project
+
+This update to the README.md describes how to run the four R code files to generate the required Plot Output
+
+The updated Repo contains:
+<ol>
+<li> plot1.R - Reads the datafile, subsets to just data from 02/01/2007 and 02/01/2007, writes out a png plot file plot1.png which is also in the Repo.
+<li> plot2.R - Reads the datafile, subsets to just data from 02/01/2007 and 02/01/2007, writes out a png plot file plot2.png which is also in the Repo.
+<li> plot3.R - Reads the datafile, subsets to just data from 02/01/2007 and 02/01/2007, writes out a png plot file plot3.png which is also in the Repo.
+<li> plot4.R - Reads the datafile, subsets to just data from 02/01/2007 and 02/01/2007, writes out a png plot file plot4.png which is also in the Repo.
+</ol>
+
+To run each R code, the data file listing in the original README.md below must be downloaded and unzipped.  Also note that the Directory location at the top of the R code, must be set to match the location of the local file downloaded.
+
+Each R code program is independednt of the others and is run seperately.
+
 ## Introduction
 
 This assignment uses data from
